@@ -1,4 +1,4 @@
-Font Awesome Pro Vaadin icon set generator Maven Plugin
+Font Awesome Pro Vaadin Icon Set Generator Maven Plugin
 ========================================================
 
-A Plugin to generate a Font Awesome icon set for vaadin icons.
+A Plugin to generate a Font Awesome icon set for Vaadin icons.

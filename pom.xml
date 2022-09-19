@@ -5,7 +5,7 @@
     <artifactId>font-awesome-pro-vaadin-iconset-generator-maven-plugin</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
-    <name>Font Awesome Pro Vaadin icon set generator Maven Plugin</name>
+    <name>Font Awesome Pro Vaadin Icon Set Generator Maven Plugin</name>
 
     <url>https://github.com/aspan/font-awesome-pro-vaadin-iconset-generator-maven-plugin</url>
 
@@ -50,7 +50,7 @@
                         <phase>site</phase>
                         <configuration>
                             <server>github</server>
-                            <message>Font Awesome Pro Vaadin icon set generator Maven Plugin</message>
+                            <message>Font Awesome Pro Vaadin Icon Set Generator Maven Plugin</message>
                             <merge>true</merge>
                         </configuration>
                     </execution>
