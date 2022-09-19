@@ -20,7 +20,7 @@
             <gitHub>
                 <projectId>aspan/font-awesome-pro-vaadin-iconset-generator-maven-plugin</projectId>
                 <ribbonOrientation>right</ribbonOrientation>
-                <ribbonColor>black</ribbonColor>
+                <ribbonColor>red</ribbonColor>
             </gitHub>
         </fluidoSkin>
     </custom>
